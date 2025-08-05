@@ -33,6 +33,3 @@ Construir uma estrutura completa de página HTML utilizando apenas HTML puro, se
 ## 📂 Como visualizar
 
 Basta abrir o arquivo `index.html` diretamente no navegador:
-
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
